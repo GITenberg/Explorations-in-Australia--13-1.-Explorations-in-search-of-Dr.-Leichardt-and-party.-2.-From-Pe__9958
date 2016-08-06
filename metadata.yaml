@@ -1,0 +1,30 @@
+_repo: Explorations-in-Australia--13-1.-Explorations-in-search-of-Dr.-Leichardt-and-party.-2.-From-Pe__9958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forrest, John Forrest, Baron
+    birthdate: 1847
+    deathdate: 1918
+    gutenberg_agent_id: '3221'
+    url: http://www.gutenberg.org/2009/agents/3221
+    wikipedia: http://en.wikipedia.org/wiki/John_Forrest,_1st_Baron_Forrest_of_Bunbury
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Description and travel'
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- GITenberg
+title: "Explorations in Australia\r\n1.-Explorations in search of Dr. Leichardt and\
+  \ party. 2.-From Perth to Adelaide, around the great Australian bight. 3.-From Champion\
+  \ Bay, across the desert to the telegraph and to Adelaide. With an appendix on the\
+  \ condition of Western Australia."
+url: http://www.gutenberg.org/ebooks/9958
