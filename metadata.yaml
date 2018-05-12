@@ -1,5 +1,8 @@
 _repo: Explorations-in-Australia--13-1.-Explorations-in-search-of-Dr.-Leichardt-and-party.-2.-From-Pe__9958
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Forrest, John Forrest, Baron
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3221
     wikipedia: http://en.wikipedia.org/wiki/John_Forrest,_1st_Baron_Forrest_of_Bunbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9958#Explorations-in-Australia--13-1.-Explorations-in-search-of-Dr.-Leichardt-and-party.-2.-From-Pe_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-08-26'
 gutenberg_type: Text
